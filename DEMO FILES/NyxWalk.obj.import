@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/NyxWalk.obj-7cd4a02a8a4e846138d2cf812ab8dd8d.mesh"
+
+[deps]
+
+files=[ "res://.import/NyxWalk.obj-7cd4a02a8a4e846138d2cf812ab8dd8d.mesh" ]
+
+source_file="res://DEMO FILES/NyxWalk.obj"
+dest_files=[ "res://.import/NyxWalk.obj-7cd4a02a8a4e846138d2cf812ab8dd8d.mesh", "res://.import/NyxWalk.obj-7cd4a02a8a4e846138d2cf812ab8dd8d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

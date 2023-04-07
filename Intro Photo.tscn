@@ -1,0 +1,21 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Video/intro/video_2020-12-15_03-50-44.webm.webm" type="VideoStream" id=1]
+
+[node name="Intro" type="Node"]
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+margin_right = 1031.0
+margin_bottom = 595.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="VideoPlayer" type="VideoPlayer" parent="CenterContainer"]
+margin_left = 515.0
+margin_top = 297.0
+margin_right = 515.0
+margin_bottom = 297.0
+rect_pivot_offset = Vector2( -1209.94, 117.336 )
+stream = ExtResource( 1 )
+autoplay = true
